@@ -1,0 +1,17 @@
+import requests
+import sys
+import os
+# Adiciona o diretório raiz do projeto ao sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+def get_page_content(url):
+    response = requests.get(url)
+    response.raise_for_status()
+    return response.content
+
+def main():
+    url = "https://wdwpassport.com/wait-times/magic-kingdom"
+    page_content = get_page_content(url)
+    print(page_content)
+
+main()
