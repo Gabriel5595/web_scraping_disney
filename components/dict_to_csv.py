@@ -10,10 +10,10 @@ def dict_to_csv(dict_list):
     base_path = os.path.abspath(os.path.join(os.path.dirname(__file__),'..', 'resources', 'csv'))
     
     if check_file_exists(file_name, "csv"):
-        existing_df = pd.read_csv(file_name)
+        full_path = os.path.join(base_path, file_name)
+        existing_df = pd.read_csv(full_path)
         new_df = pd.DataFrame(dict_list)
         combined_df = pd.concat([existing_df, new_df], ignore_index=True)
-        full_path = os.path.join(base_path, file_name)
         combined_df.to_csv(full_path, index=False)
     else:
         # Arquivo não existe, então criar um novo arquivo

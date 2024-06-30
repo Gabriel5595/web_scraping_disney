@@ -1,9 +1,11 @@
 import time
-from tabulate import tabulate
 
 from components.extract_data import extract_data
 from components.get_page_content import get_page_content
 from components.should_check import should_check
+from components.dict_to_csv import dict_to_csv
+from components.dict_to_excel import dict_to_excel
+from components.dict_to_sql import dict_to_sql
 
 
 def main():
@@ -19,10 +21,12 @@ def main():
                 content = get_page_content(url)
                 rides = extract_data(content)
                 
-                headers = rides[0].keys()
-                rows = [ride.values() for ride in rides]
-                print(tabulate(rows, headers=headers, tablefmt='grid'))
-        
+                dict_to_csv(rides)
+                dict_to_excel(rides)
+                dict_to_sql(rides, park)
+                
+        print("\nInformation updated successfully\n")
+                        
         time.sleep(300)
     
     

@@ -10,7 +10,7 @@ from components.should_check import should_check
 from components.get_page_content import get_page_content
 from components.extract_data import extract_data
 
-def dicts_to_excel(dict_list):
+def dict_to_excel(dict_list):
     file_name = generate_file_name(dict_list, "xlsx")
     
     base_path = os.path.abspath(os.path.join(os.path.dirname(__file__),'..', 'resources', 'excel'))
@@ -40,6 +40,6 @@ def main():
             content = get_page_content(url)
             rides = extract_data(content)
             
-            dicts_to_excel(rides)
+            dict_to_excel(rides)
 
 main()
