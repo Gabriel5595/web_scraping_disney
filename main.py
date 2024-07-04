@@ -1,4 +1,4 @@
-import time
+from datetime import datetime, time
 
 from components.extract_data import extract_data
 from components.get_page_content import get_page_content
@@ -6,6 +6,7 @@ from components.should_check import should_check
 from components.dict_to_csv import dict_to_csv
 from components.dict_to_excel import dict_to_excel
 from components.dict_to_sql import dict_to_sql
+from components.send_email_backup import send_email_backup
 
 
 def main():
@@ -28,7 +29,8 @@ def main():
         print("\nInformation updated successfully\n")
                         
         time.sleep(300)
-    
-    
-    
+        
+        if datetime.now().time() > time(23,35) and datetime.now().time() < time(23,41):
+            send_email_backup()
+
 main()
