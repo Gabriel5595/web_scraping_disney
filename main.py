@@ -22,10 +22,11 @@ def main():
                 
                 content = get_page_content(url)
                 rides = extract_data(content)
-                
-                dict_to_csv(rides)
-                dict_to_excel(rides)
-                dict_to_sql(rides, park)
+
+                if rides:
+                    dict_to_csv(rides)
+                    dict_to_excel(rides)
+                    dict_to_sql(rides, park)
                 
         print("\nInformation updated successfully\n")
         
