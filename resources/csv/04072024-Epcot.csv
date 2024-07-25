@@ -1,0 +1,85 @@
+data,hora,parque,area,nome,tempo_espera
+2024-07-04,13:32:00,Epcot,World Showcase,Frozen Ever After,55
+2024-07-04,13:32:00,Epcot,World Showcase,Gran Fiesta Tour,20
+2024-07-04,13:32:00,Epcot,World Discovery,Guardians of the Galaxy: Cosmic Rewind,25
+2024-07-04,13:32:00,Epcot,World Celebration,Journey Into Imagination With Figment,25
+2024-07-04,13:32:00,Epcot,World Nature,Living with the Land,15
+2024-07-04,13:32:00,Epcot,World Showcase,Meet Anna and Elsa at Royal Sommerhus,25
+2024-07-04,13:32:00,Epcot,World Celebration,Meet Beloved Disney Pals at Mickey & Friends,30
+2024-07-04,13:32:00,Epcot,World Discovery,Mission: SPACE,10
+2024-07-04,13:32:00,Epcot,World Showcase,Remy's Ratatouille Adventure,55
+2024-07-04,13:32:00,Epcot,World Nature,The Seas with Nemo & Friends,30
+2024-07-04,13:32:00,Epcot,World Nature,Soarin',55
+2024-07-04,13:32:00,Epcot,World Celebration,Spaceship Earth,25
+2024-07-04,13:32:27,Epcot,World Showcase,Frozen Ever After,55
+2024-07-04,13:32:27,Epcot,World Showcase,Gran Fiesta Tour,20
+2024-07-04,13:32:27,Epcot,World Discovery,Guardians of the Galaxy: Cosmic Rewind,25
+2024-07-04,13:32:27,Epcot,World Celebration,Journey Into Imagination With Figment,25
+2024-07-04,13:32:27,Epcot,World Nature,Living with the Land,15
+2024-07-04,13:32:27,Epcot,World Showcase,Meet Anna and Elsa at Royal Sommerhus,25
+2024-07-04,13:32:27,Epcot,World Celebration,Meet Beloved Disney Pals at Mickey & Friends,30
+2024-07-04,13:32:27,Epcot,World Discovery,Mission: SPACE,10
+2024-07-04,13:32:27,Epcot,World Showcase,Remy's Ratatouille Adventure,55
+2024-07-04,13:32:27,Epcot,World Nature,The Seas with Nemo & Friends,30
+2024-07-04,13:32:27,Epcot,World Nature,Soarin',55
+2024-07-04,13:32:27,Epcot,World Celebration,Spaceship Earth,25
+2024-07-04,13:32:44,Epcot,World Showcase,Frozen Ever After,55
+2024-07-04,13:32:44,Epcot,World Showcase,Gran Fiesta Tour,20
+2024-07-04,13:32:44,Epcot,World Discovery,Guardians of the Galaxy: Cosmic Rewind,25
+2024-07-04,13:32:44,Epcot,World Celebration,Journey Into Imagination With Figment,25
+2024-07-04,13:32:44,Epcot,World Nature,Living with the Land,15
+2024-07-04,13:32:44,Epcot,World Showcase,Meet Anna and Elsa at Royal Sommerhus,25
+2024-07-04,13:32:44,Epcot,World Celebration,Meet Beloved Disney Pals at Mickey & Friends,30
+2024-07-04,13:32:44,Epcot,World Discovery,Mission: SPACE,10
+2024-07-04,13:32:44,Epcot,World Showcase,Remy's Ratatouille Adventure,55
+2024-07-04,13:32:44,Epcot,World Nature,The Seas with Nemo & Friends,30
+2024-07-04,13:32:44,Epcot,World Nature,Soarin',55
+2024-07-04,13:32:44,Epcot,World Celebration,Spaceship Earth,25
+2024-07-04,13:47:39,Epcot,World Showcase,Frozen Ever After,60
+2024-07-04,13:47:39,Epcot,World Showcase,Gran Fiesta Tour,20
+2024-07-04,13:47:39,Epcot,World Discovery,Guardians of the Galaxy: Cosmic Rewind,20
+2024-07-04,13:47:39,Epcot,World Celebration,Journey Into Imagination With Figment,20
+2024-07-04,13:47:39,Epcot,World Nature,Living with the Land,15
+2024-07-04,13:47:39,Epcot,World Showcase,Meet Anna and Elsa at Royal Sommerhus,20
+2024-07-04,13:47:39,Epcot,World Celebration,Meet Beloved Disney Pals at Mickey & Friends,30
+2024-07-04,13:47:39,Epcot,World Discovery,Mission: SPACE,20
+2024-07-04,13:47:39,Epcot,World Showcase,Remy's Ratatouille Adventure,55
+2024-07-04,13:47:39,Epcot,World Nature,The Seas with Nemo & Friends,30
+2024-07-04,13:47:39,Epcot,World Nature,Soarin',45
+2024-07-04,13:47:39,Epcot,World Celebration,Spaceship Earth,25
+2024-07-04,13:47:58,Epcot,World Showcase,Frozen Ever After,60
+2024-07-04,13:47:58,Epcot,World Showcase,Gran Fiesta Tour,20
+2024-07-04,13:47:58,Epcot,World Discovery,Guardians of the Galaxy: Cosmic Rewind,20
+2024-07-04,13:47:58,Epcot,World Celebration,Journey Into Imagination With Figment,20
+2024-07-04,13:47:58,Epcot,World Nature,Living with the Land,15
+2024-07-04,13:47:58,Epcot,World Showcase,Meet Anna and Elsa at Royal Sommerhus,20
+2024-07-04,13:47:58,Epcot,World Celebration,Meet Beloved Disney Pals at Mickey & Friends,30
+2024-07-04,13:47:58,Epcot,World Discovery,Mission: SPACE,20
+2024-07-04,13:47:58,Epcot,World Showcase,Remy's Ratatouille Adventure,55
+2024-07-04,13:47:58,Epcot,World Nature,The Seas with Nemo & Friends,30
+2024-07-04,13:47:58,Epcot,World Nature,Soarin',45
+2024-07-04,13:47:58,Epcot,World Celebration,Spaceship Earth,25
+2024-07-04,13:48:07,Epcot,World Showcase,Frozen Ever After,60
+2024-07-04,13:48:07,Epcot,World Showcase,Gran Fiesta Tour,20
+2024-07-04,13:48:07,Epcot,World Discovery,Guardians of the Galaxy: Cosmic Rewind,20
+2024-07-04,13:48:07,Epcot,World Celebration,Journey Into Imagination With Figment,20
+2024-07-04,13:48:07,Epcot,World Nature,Living with the Land,15
+2024-07-04,13:48:07,Epcot,World Showcase,Meet Anna and Elsa at Royal Sommerhus,20
+2024-07-04,13:48:07,Epcot,World Celebration,Meet Beloved Disney Pals at Mickey & Friends,30
+2024-07-04,13:48:07,Epcot,World Discovery,Mission: SPACE,20
+2024-07-04,13:48:07,Epcot,World Showcase,Remy's Ratatouille Adventure,55
+2024-07-04,13:48:07,Epcot,World Nature,The Seas with Nemo & Friends,30
+2024-07-04,13:48:07,Epcot,World Nature,Soarin',45
+2024-07-04,13:48:07,Epcot,World Celebration,Spaceship Earth,25
+2024-07-04,13:55:12,Epcot,World Showcase,Frozen Ever After,60
+2024-07-04,13:55:12,Epcot,World Showcase,Gran Fiesta Tour,15
+2024-07-04,13:55:12,Epcot,World Discovery,Guardians of the Galaxy: Cosmic Rewind,20
+2024-07-04,13:55:12,Epcot,World Celebration,Journey Into Imagination With Figment,20
+2024-07-04,13:55:12,Epcot,World Nature,Living with the Land,15
+2024-07-04,13:55:12,Epcot,World Showcase,Meet Anna and Elsa at Royal Sommerhus,20
+2024-07-04,13:55:12,Epcot,World Celebration,Meet Beloved Disney Pals at Mickey & Friends,30
+2024-07-04,13:55:12,Epcot,World Discovery,Mission: SPACE,20
+2024-07-04,13:55:12,Epcot,World Showcase,Remy's Ratatouille Adventure,55
+2024-07-04,13:55:12,Epcot,World Nature,The Seas with Nemo & Friends,30
+2024-07-04,13:55:12,Epcot,World Nature,Soarin',45
+2024-07-04,13:55:12,Epcot,World Celebration,Spaceship Earth,25

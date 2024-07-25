@@ -1,5 +1,5 @@
 import smtplib
-from datetime import datetime
+from datetime import datetime, time
 from email.message import EmailMessage
 from email.utils import formataddr
 import os
@@ -51,6 +51,8 @@ def send_email_backup():
         smtp.send_message(msg)
 
 def main():
-    send_email_backup()
+    current_time = datetime.now().time()
+    if current_time > time(13, 42) and current_time < time(13, 47):
+        send_email_backup()
 
 main()

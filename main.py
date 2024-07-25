@@ -1,4 +1,5 @@
-from datetime import datetime, time
+import time
+from datetime import datetime, time as dt_time
 
 from components.extract_data import extract_data
 from components.get_page_content import get_page_content
@@ -27,10 +28,11 @@ def main():
                 dict_to_sql(rides, park)
                 
         print("\nInformation updated successfully\n")
-                        
-        time.sleep(300)
         
-        if datetime.now().time() > time(23,35) and datetime.now().time() < time(23,41):
+        current_time = datetime.now().time()
+        if current_time > dt_time(23, 30) and current_time < dt_time(23, 34):
             send_email_backup()
+             
+        time.sleep(300)
 
 main()

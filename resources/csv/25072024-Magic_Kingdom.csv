@@ -1,0 +1,361 @@
+data,hora,parque,area,nome,tempo_espera
+2024-07-25,12:16:33,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,The Barnstormer,25
+2024-07-25,12:16:33,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:16:33,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,30
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,20
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,20
+2024-07-25,12:16:33,Magic Kingdom,Liberty Square,Haunted Mansion,30
+2024-07-25,12:16:33,Magic Kingdom,Área não encontrada,"""it's a small world""",25
+2024-07-25,12:16:33,Magic Kingdom,Adventureland,Jungle Cruise,50
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Mad Tea Party,15
+2024-07-25,12:16:33,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,40
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,35
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,25
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,30
+2024-07-25,12:16:33,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,35
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,60
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:16:33,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:16:33,Magic Kingdom,Adventureland,Pirates of the Caribbean,55
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:16:33,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,90
+2024-07-25,12:16:33,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:16:33,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,25
+2024-07-25,12:16:33,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,25
+2024-07-25,12:16:33,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:16:33,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,30
+2024-07-25,12:16:33,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,30
+2024-07-25,12:21:10,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,The Barnstormer,25
+2024-07-25,12:21:10,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:21:10,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,30
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,30
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,20
+2024-07-25,12:21:10,Magic Kingdom,Liberty Square,Haunted Mansion,30
+2024-07-25,12:21:10,Magic Kingdom,Área não encontrada,"""it's a small world""",25
+2024-07-25,12:21:10,Magic Kingdom,Adventureland,Jungle Cruise,50
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Mad Tea Party,15
+2024-07-25,12:21:10,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,40
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,35
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,25
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,30
+2024-07-25,12:21:10,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,35
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,60
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:21:10,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:21:10,Magic Kingdom,Adventureland,Pirates of the Caribbean,45
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:21:10,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,90
+2024-07-25,12:21:10,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:21:10,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,25
+2024-07-25,12:21:10,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,25
+2024-07-25,12:21:10,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:21:10,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,30
+2024-07-25,12:21:10,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,30
+2024-07-25,12:23:42,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,The Barnstormer,25
+2024-07-25,12:23:42,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:23:42,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,30
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,30
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,30
+2024-07-25,12:23:42,Magic Kingdom,Liberty Square,Haunted Mansion,30
+2024-07-25,12:23:42,Magic Kingdom,Área não encontrada,"""it's a small world""",25
+2024-07-25,12:23:42,Magic Kingdom,Adventureland,Jungle Cruise,50
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Mad Tea Party,15
+2024-07-25,12:23:42,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,40
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,35
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,12:23:42,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,60
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,60
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:23:42,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:23:42,Magic Kingdom,Adventureland,Pirates of the Caribbean,45
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:23:42,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,90
+2024-07-25,12:23:42,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:23:42,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,25
+2024-07-25,12:23:42,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,25
+2024-07-25,12:23:42,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:23:42,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,30
+2024-07-25,12:23:42,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,30
+2024-07-25,12:24:14,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,The Barnstormer,25
+2024-07-25,12:24:14,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:24:14,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,30
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,30
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,30
+2024-07-25,12:24:14,Magic Kingdom,Liberty Square,Haunted Mansion,30
+2024-07-25,12:24:14,Magic Kingdom,Área não encontrada,"""it's a small world""",25
+2024-07-25,12:24:14,Magic Kingdom,Adventureland,Jungle Cruise,50
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Mad Tea Party,15
+2024-07-25,12:24:14,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,40
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,35
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,12:24:14,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,60
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,60
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:24:14,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:24:14,Magic Kingdom,Adventureland,Pirates of the Caribbean,45
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:24:14,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,90
+2024-07-25,12:24:14,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:24:14,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,25
+2024-07-25,12:24:14,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,25
+2024-07-25,12:24:14,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:24:14,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,30
+2024-07-25,12:24:14,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,30
+2024-07-25,12:27:30,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,The Barnstormer,40
+2024-07-25,12:27:30,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:27:30,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,30
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,30
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,30
+2024-07-25,12:27:30,Magic Kingdom,Liberty Square,Haunted Mansion,30
+2024-07-25,12:27:30,Magic Kingdom,Área não encontrada,"""it's a small world""",5
+2024-07-25,12:27:30,Magic Kingdom,Adventureland,Jungle Cruise,50
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Mad Tea Party,15
+2024-07-25,12:27:30,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,40
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,35
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,12:27:30,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,60
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,60
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:27:30,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:27:30,Magic Kingdom,Adventureland,Pirates of the Caribbean,30
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:27:30,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,90
+2024-07-25,12:27:30,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:27:30,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,25
+2024-07-25,12:27:30,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,25
+2024-07-25,12:27:30,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:27:30,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,30
+2024-07-25,12:27:30,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,30
+2024-07-25,12:28:09,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,The Barnstormer,40
+2024-07-25,12:28:09,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:28:09,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,30
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,30
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,30
+2024-07-25,12:28:09,Magic Kingdom,Liberty Square,Haunted Mansion,30
+2024-07-25,12:28:09,Magic Kingdom,Área não encontrada,"""it's a small world""",5
+2024-07-25,12:28:09,Magic Kingdom,Adventureland,Jungle Cruise,50
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Mad Tea Party,15
+2024-07-25,12:28:09,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,40
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,35
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,12:28:09,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,60
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,60
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:28:09,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:28:09,Magic Kingdom,Adventureland,Pirates of the Caribbean,30
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:28:09,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,90
+2024-07-25,12:28:09,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:28:09,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,25
+2024-07-25,12:28:09,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,25
+2024-07-25,12:28:09,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:28:09,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,30
+2024-07-25,12:28:09,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,30
+2024-07-25,12:42:14,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,The Barnstormer,40
+2024-07-25,12:42:14,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:42:14,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,40
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,30
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,30
+2024-07-25,12:42:14,Magic Kingdom,Liberty Square,Haunted Mansion,35
+2024-07-25,12:42:14,Magic Kingdom,Área não encontrada,"""it's a small world""",35
+2024-07-25,12:42:14,Magic Kingdom,Adventureland,Jungle Cruise,40
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Mad Tea Party,20
+2024-07-25,12:42:14,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,35
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,30
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,12:42:14,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,30
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,60
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:42:14,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:42:14,Magic Kingdom,Adventureland,Pirates of the Caribbean,45
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:42:14,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,90
+2024-07-25,12:42:14,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:42:14,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,35
+2024-07-25,12:42:14,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,35
+2024-07-25,12:42:14,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:42:14,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,30
+2024-07-25,12:42:14,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,30
+2024-07-25,12:52:35,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,The Barnstormer,20
+2024-07-25,12:52:35,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:52:35,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,35
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,30
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,30
+2024-07-25,12:52:35,Magic Kingdom,Liberty Square,Haunted Mansion,45
+2024-07-25,12:52:35,Magic Kingdom,Área não encontrada,"""it's a small world""",35
+2024-07-25,12:52:35,Magic Kingdom,Adventureland,Jungle Cruise,35
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Mad Tea Party,20
+2024-07-25,12:52:35,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,35
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,30
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,12:52:35,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,20
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,45
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:52:35,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:52:35,Magic Kingdom,Adventureland,Pirates of the Caribbean,40
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:52:35,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,70
+2024-07-25,12:52:35,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:52:35,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,35
+2024-07-25,12:52:35,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,35
+2024-07-25,12:52:35,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:52:35,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,35
+2024-07-25,12:52:35,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,35
+2024-07-25,12:54:09,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,The Barnstormer,20
+2024-07-25,12:54:09,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:54:09,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,35
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,30
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,30
+2024-07-25,12:54:09,Magic Kingdom,Liberty Square,Haunted Mansion,45
+2024-07-25,12:54:09,Magic Kingdom,Área não encontrada,"""it's a small world""",35
+2024-07-25,12:54:09,Magic Kingdom,Adventureland,Jungle Cruise,35
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Mad Tea Party,20
+2024-07-25,12:54:09,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,35
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,30
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,12:54:09,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,20
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,45
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:54:09,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:54:09,Magic Kingdom,Adventureland,Pirates of the Caribbean,40
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:54:09,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,70
+2024-07-25,12:54:09,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:54:09,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,35
+2024-07-25,12:54:09,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,35
+2024-07-25,12:54:09,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:54:09,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,35
+2024-07-25,12:54:09,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,35
+2024-07-25,12:59:22,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,The Barnstormer,20
+2024-07-25,12:59:22,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,45
+2024-07-25,12:59:22,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,35
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,15
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,30
+2024-07-25,12:59:22,Magic Kingdom,Liberty Square,Haunted Mansion,45
+2024-07-25,12:59:22,Magic Kingdom,Área não encontrada,"""it's a small world""",35
+2024-07-25,12:59:22,Magic Kingdom,Adventureland,Jungle Cruise,30
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Mad Tea Party,20
+2024-07-25,12:59:22,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,35
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,30
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,12:59:22,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,60
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,45
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,12:59:22,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,12:59:22,Magic Kingdom,Adventureland,Pirates of the Caribbean,40
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,12:59:22,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,70
+2024-07-25,12:59:22,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,12:59:22,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,35
+2024-07-25,12:59:22,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,35
+2024-07-25,12:59:22,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,12:59:22,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,35
+2024-07-25,12:59:22,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,35
+2024-07-25,13:04:35,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,The Barnstormer,20
+2024-07-25,13:04:35,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,55
+2024-07-25,13:04:35,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,30
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,15
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,15
+2024-07-25,13:04:35,Magic Kingdom,Liberty Square,Haunted Mansion,45
+2024-07-25,13:04:35,Magic Kingdom,Área não encontrada,"""it's a small world""",35
+2024-07-25,13:04:35,Magic Kingdom,Adventureland,Jungle Cruise,35
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Mad Tea Party,20
+2024-07-25,13:04:35,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,15
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,35
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,30
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,13:04:35,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,60
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,30
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,13:04:35,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,13:04:35,Magic Kingdom,Adventureland,Pirates of the Caribbean,30
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,13:04:35,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,70
+2024-07-25,13:04:35,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,13:04:35,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,35
+2024-07-25,13:04:35,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,35
+2024-07-25,13:04:35,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,13:04:35,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,35
+2024-07-25,13:04:35,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,35
+2024-07-25,13:09:48,Magic Kingdom,Tomorrowland,Astro Orbiter,35
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,The Barnstormer,20
+2024-07-25,13:09:48,Magic Kingdom,Frontierland,Big Thunder Mountain Railroad,55
+2024-07-25,13:09:48,Magic Kingdom,Tomorrowland,Buzz Lightyear's Space Ranger Spin,30
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Dumbo the Flying Elephant,15
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Enchanted Tales with Belle,15
+2024-07-25,13:09:48,Magic Kingdom,Liberty Square,Haunted Mansion,45
+2024-07-25,13:09:48,Magic Kingdom,Área não encontrada,"""it's a small world""",35
+2024-07-25,13:09:48,Magic Kingdom,Adventureland,Jungle Cruise,40
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Mad Tea Party,20
+2024-07-25,13:09:48,Magic Kingdom,Adventureland,The Magic Carpets of Aladdin,10
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,The Many Adventures of Winnie the Pooh,35
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Meet Ariel at Her Grotto,30
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,35
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Meet Daring Disney Pals as Circus Stars at Pete's Silly Side Show,20
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Meet Dashing Disney Pals as Circus Stars at Pete’s Silly Side Show,20
+2024-07-25,13:09:48,Magic Kingdom,Main Street USA,Meet Mickey at Town Square Theater,60
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,30
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Mickey's PhilharMagic,15
+2024-07-25,13:09:48,Magic Kingdom,Tomorrowland,Monsters Inc. Laugh Floor,20
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Peter Pan's Flight,Atração indiponível indefinidamente
+2024-07-25,13:09:48,Magic Kingdom,Adventureland,Pirates of the Caribbean,30
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Prince Charming Regal Carrousel,5
+2024-07-25,13:09:48,Magic Kingdom,Fantasyland,Seven Dwarfs Mine Train,70
+2024-07-25,13:09:48,Magic Kingdom,Tomorrowland,Space Mountain,60
+2024-07-25,13:09:48,Magic Kingdom,Frontierland,Tiana's Bayou Adventure,35
+2024-07-25,13:09:48,Magic Kingdom,Tomorrowland,Tomorrowland Speedway,35
+2024-07-25,13:09:48,Magic Kingdom,Tomorrowland,Tomorrowland Transit Authority PeopleMover,10
+2024-07-25,13:09:48,Magic Kingdom,Tomorrowland,TRON Lightcycle / Run,35
+2024-07-25,13:09:48,Magic Kingdom,Tomorrowland,Under the Sea ~ Journey of The Little Mermaid,35

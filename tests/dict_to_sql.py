@@ -1,13 +1,16 @@
-import sqlite3
+import mysql.connector
+import sys
 import os
 
+# Adiciona o diretório raiz do projeto ao sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from components.create_table import create_table
+from components.db_connection import db_connection
 
 def dict_to_sql(rides, park):
-    # Conecta ao banco de dados (ou cria se não existir)
-    path = os.path.abspath(os.path.join(os.path.dirname(__file__),'..', 'resources', 'database', 'parques'))
-    
-    conn = sqlite3.connect(path)
+    # Conecta ao banco de dados
+    conn = db_connection()
     create_table(conn, park)
     
     # Prepara os dados para inserção
@@ -15,11 +18,16 @@ def dict_to_sql(rides, park):
     
     # Inserir os dados na tabela
     insert_sql = f"""
-    INSERT INTO {park} (data, hora, parque, area, nome, tempo_espera)
-    VALUES (?, ?, ?, ?, ?, ?);
+    INSERT INTO `{park}` (data, hora, parque, area, nome, tempo_espera)
+    VALUES (%s, %s, %s, %s, %s, %s);
     """
-    conn.executemany(insert_sql, data_to_insert)
-    conn.commit()
-    
-    # Fecha a conexão
-    conn.close()
+    cursor = conn.cursor()
+    try:
+        cursor.executemany(insert_sql, data_to_insert)
+        conn.commit()
+        print(f"Dados inseridos com sucesso na tabela '{park}'.")
+    except mysql.connector.Error as err:
+        print(f"Erro ao inserir dados: {err}")
+    finally:
+        cursor.close()
+        conn.close()
