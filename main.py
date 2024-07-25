@@ -1,5 +1,5 @@
 from datetime import datetime, time
-
+import time as time_module
 from components.extract_data import extract_data
 from components.get_page_content import get_page_content
 from components.should_check import should_check
@@ -21,14 +21,15 @@ def main():
                 
                 content = get_page_content(url)
                 rides = extract_data(content)
-                
-                dict_to_csv(rides)
-                dict_to_excel(rides)
-                dict_to_sql(rides, park)
+
+                if rides:
+                    dict_to_csv(rides)
+                    dict_to_excel(rides)
+                    dict_to_sql(rides, park)
                 
         print("\nInformation updated successfully\n")
                         
-        time.sleep(300)
+        time_module.sleep(300)
         
         if datetime.now().time() > time(23,35) and datetime.now().time() < time(23,41):
             send_email_backup()
